@@ -1,9 +1,9 @@
 general.import = [
-    "~/.config/alacritty/themes/catppuccin-mocha.toml"
+    "~/.config/alacritty/themes/catppuccin-macchiato.toml"
 ]
 
 [font]
-size = 15
+size = 14
 
 [font.normal]
 family = "JetBrainsMono Nerd Font Mono"
