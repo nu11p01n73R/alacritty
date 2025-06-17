@@ -1,0 +1,19 @@
+general.import = [
+    "~/.confg/alacritty/themes/catppuccin-mocha.toml"
+]
+
+[font]
+size = 15
+
+[font.normal]
+family = "JetBrainsMono Nerd Font Mono"
+style = "Thin"
+
+[window]
+decorations = "None"
+
+[cursor.vi_mode_style]
+shape = "Block"
+
+[env]
+TERM = "xterm-256color"
